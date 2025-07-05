@@ -1,12 +1,12 @@
 # 🛍️ Amazon Sales Analysis
 
-This project involves data cleaning, exploratory data analysis (EDA), and SQL-based querying* of an Amazon sales dataset using Jupyter Notebook, Pandas, and SQLAlchemy*.
+This project involves data cleaning, exploratory data analysis (EDA), and SQL-based querying of an Amazon sales dataset using Jupyter Notebook, Pandas, and SQLAlchemy.
 
 
 
 ## 📁 Dataset
 
-- 📦 Sourced from *Kaggle*
+- 📦 Sourced from Kaggle
 - Contains product information like:
   - Product name
   - Category
